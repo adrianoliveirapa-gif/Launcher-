@@ -1,0 +1,6 @@
+{
+  "name": "ColorOS Launcher",
+  "description": "Android 8 Oreo Oppo Launcher by ColorOS Ahmet Koyak Edition with authentic ColorOS UI, RAM cleaner widget, and Oreo theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
